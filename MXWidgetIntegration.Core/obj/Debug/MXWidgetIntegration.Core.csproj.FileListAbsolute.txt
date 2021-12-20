@@ -1,0 +1,14 @@
+C:\Users\supra\source\repos\MXWidgetIntegration\MXWidgetIntegration.Core\bin\Debug\MXWidgetIntegration.Core.dll
+C:\Users\supra\source\repos\MXWidgetIntegration\MXWidgetIntegration.Core\bin\Debug\MXWidgetIntegration.Core.pdb
+C:\Users\supra\source\repos\MXWidgetIntegration\MXWidgetIntegration.Core\obj\Debug\MXWidgetIntegration.Core.csproj.AssemblyReference.cache
+C:\Users\supra\source\repos\MXWidgetIntegration\MXWidgetIntegration.Core\obj\Debug\MXWidgetIntegration.Core.csproj.CoreCompileInputs.cache
+C:\Users\supra\source\repos\MXWidgetIntegration\MXWidgetIntegration.Core\obj\Debug\MXWidgetIntegration.Core.dll
+C:\Users\supra\source\repos\MXWidgetIntegration\MXWidgetIntegration.Core\obj\Debug\MXWidgetIntegration.Core.pdb
+C:\Users\supra\source\repos\MXWidgetIntegration\MXWidgetIntegration.Core\bin\Debug\Newtonsoft.Json.dll
+C:\Users\supra\source\repos\MXWidgetIntegration\MXWidgetIntegration.Core\bin\Debug\RestSharp.dll
+C:\Users\supra\source\repos\MXWidgetIntegration\MXWidgetIntegration.Core\bin\Debug\Newtonsoft.Json.xml
+C:\Users\supra\source\repos\MXWidgetIntegration\MXWidgetIntegration.Core\bin\Debug\RestSharp.xml
+C:\Users\supra\source\repos\MXWidgetIntegration\MXWidgetIntegration.Core\obj\Debug\MXWidgetIntegration.Core.csproj.CopyComplete
+C:\Users\supra\source\repos\MXWidgetIntegration\MXWidgetIntegration.Core\bin\Debug\Polly.dll
+C:\Users\supra\source\repos\MXWidgetIntegration\MXWidgetIntegration.Core\bin\Debug\Polly.pdb
+C:\Users\supra\source\repos\MXWidgetIntegration\MXWidgetIntegration.Core\bin\Debug\Polly.xml
